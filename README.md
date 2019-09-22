@@ -1,2 +1,2 @@
 # hello_world
-just a study
+master's description
